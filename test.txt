@@ -9,6 +9,8 @@ my branch 5commit
 hihi
 hihi
 hihi
+hihi
+hihi
 
 my branch commit
 my branch 3commit
