@@ -3,17 +3,5 @@ second commit
 third commit
 
 my branch commit
-my branch 3commit
-my branch 5commit
-
+y branch second commit
 hihi
-hihi
-hihi
-hihi
-hihi
-
-my branch commit
-my branch 3commit
-my branch 5commit
-
-last chance
